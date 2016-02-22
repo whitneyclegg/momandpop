@@ -1,0 +1,67 @@
+.headline {
+	font-size:40px;
+	font-family: "Times";
+	padding-bottom: 5px;
+	margin-top:50px;
+	margin-bottom:10px;
+	margin-right:150px;
+	margin-left:200px;
+}
+
+.subhead {
+	font-size:20px;
+	font-family: "Times";
+	font-weight: ;
+	padding-bottom: 0px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-right:150px;
+	margin-left:200px;
+
+}
+
+.byline {
+	color:#808080;
+	font-size: 15px;
+	font-family: "Times";
+	font-weight: bold;
+	padding-bottom: 5px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-right:150px;
+	margin-left:200px;
+}
+
+.img {
+	margin-top:20px;
+	margin-right:150px;
+	margin-left:200px;
+
+}
+
+.figure{
+margin-right: 200px;
+	margin-top:20px;
+	margin-left:135px;}
+
+.caption {
+	margin-right:400px;
+	margin-left:200px;
+	color:#a6a6a6;
+	font-family: "times";
+	font-size:15px;
+	margin-top:10px;
+}
+
+.text {
+	font-family: "times";
+	font-size: 18px;
+	margin-right:400px;
+	margin-left:250px;
+}
+
+.hr{
+	color:#808080;
+	margin-right:150px;
+	margin-left:200px;
+}
